@@ -1,0 +1,17 @@
+section {
+    background-color: gray;
+    border-width: 2px;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px;
+    width: 30%;
+}
+
+p {
+    clear: both;
+    text-align: center;
+}
+
+#box {
+    float: right;
+}

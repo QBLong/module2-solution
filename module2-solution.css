@@ -1,17 +1,44 @@
 section {
     background-color: gray;
-    border-width: 2px;
+    border: 2px solid black;
     box-sizing: border-box;
     padding: 10px;
     margin: 10px;
     width: 30%;
 }
 
+h1 {
+    text-align: center;
+} 
+
+h2 {
+    float: right;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    margin: 0px;
+    border: 1px solid black;
+}
+
+#chicken {
+    background-color: pink;
+}
+
+#beef {
+    background-color: red;
+}
+
+#sushi {
+    background-color: burlywood;
+}
+
 p {
     clear: both;
     text-align: center;
+    margin: 10px;
 }
 
-#box {
-    float: right;
+.box {
+    float: left;
+    padding: 0;
 }

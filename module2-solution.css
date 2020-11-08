@@ -1,4 +1,4 @@
-section {
+.box {
     background-color: gray;
     border: 2px solid black;
     box-sizing: border-box;
@@ -41,4 +41,9 @@ p {
 .box {
     float: left;
     padding: 0;
+}
+
+section {
+    margin: 0 auto;
+    height: 100%;
 }

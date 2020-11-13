@@ -2,8 +2,6 @@
     background-color: gray;
     border: 2px solid black;
     box-sizing: border-box;
-    padding: 10px;
-    margin: 10px;
     width: 30%;
 }
 
@@ -13,6 +11,7 @@ h1 {
 
 h2 {
     float: right;
+
     text-align: center;
     width: auto;
     height: auto;
@@ -39,11 +38,13 @@ p {
 }
 
 .box {
-    float:left;
-    padding: 0;
+    
+    margin: auto;
 }
 
 section {
-    margin: 0 auto;
+    margin: auto;
+
     height: 100%;
 }
+

@@ -3,6 +3,8 @@
     border: 2px solid black;
     box-sizing: border-box;
     width: 30%;
+    padding-right: 0%;
+    margin: 1% 1% 1% 1%;
 }
 
 h1 {
@@ -11,11 +13,10 @@ h1 {
 
 h2 {
     float: right;
-
+    margin-right: 0%;
     text-align: center;
     width: auto;
     height: auto;
-    margin: 0px;
     border: 1px solid black;
 }
 

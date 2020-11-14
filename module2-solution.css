@@ -4,7 +4,7 @@
     box-sizing: border-box;
     width: 30%;
     padding-right: 0%;
-    margin: 1% 1% 1% 1%;
+    margin: 4% 4% 4% 4%;
 }
 
 h1 {
@@ -13,9 +13,9 @@ h1 {
 
 h2 {
     float: right;
-    margin-right: 0%;
+    margin-right: 0px;
     text-align: center;
-    width: auto;
+    width: 60%;
     height: auto;
     border: 1px solid black;
 }
@@ -36,11 +36,6 @@ p {
     clear: both;
     text-align: center;
     margin: 10px;
-}
-
-.box {
-    
-    margin: auto;
 }
 
 section {
